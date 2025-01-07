@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/EXPLORER-Z/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/EXPLORER-Z/LeetCode/tree/master/0242-valid-anagram) |
+| [0953-reverse-only-letters](https://github.com/EXPLORER-Z/LeetCode/tree/master/0953-reverse-only-letters) |
 ## Sorting
 |  |
 | ------- |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/EXPLORER-Z/LeetCode/tree/master/0171-excel-sheet-column-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0953-reverse-only-letters](https://github.com/EXPLORER-Z/LeetCode/tree/master/0953-reverse-only-letters) |
 <!---LeetCode Topics End-->
