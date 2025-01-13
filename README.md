@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/EXPLORER-Z/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0147-insertion-sort-list](https://github.com/EXPLORER-Z/LeetCode/tree/master/0147-insertion-sort-list) |
 ## Math
 |  |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/EXPLORER-Z/LeetCode/tree/master/0022-generate-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/EXPLORER-Z/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
