@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/EXPLORER-Z/LeetCode/tree/master/0015-3sum) |
 | [0303-range-sum-query-immutable](https://github.com/EXPLORER-Z/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0697-degree-of-an-array](https://github.com/EXPLORER-Z/LeetCode/tree/master/0697-degree-of-an-array) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/EXPLORER-Z/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Design
 |  |
 | ------- |
@@ -65,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/EXPLORER-Z/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/EXPLORER-Z/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/EXPLORER-Z/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
