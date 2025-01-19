@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/EXPLORER-Z/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/EXPLORER-Z/LeetCode/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/EXPLORER-Z/LeetCode/tree/master/0072-edit-distance) |
 | [0171-excel-sheet-column-number](https://github.com/EXPLORER-Z/LeetCode/tree/master/0171-excel-sheet-column-number) |
