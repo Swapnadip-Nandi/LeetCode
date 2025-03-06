@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/EXPLORER-Z/LeetCode/tree/master/0697-degree-of-an-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/EXPLORER-Z/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3227-find-missing-and-repeated-values](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Design
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/EXPLORER-Z/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/EXPLORER-Z/LeetCode/tree/master/0242-valid-anagram) |
 | [0697-degree-of-an-array](https://github.com/EXPLORER-Z/LeetCode/tree/master/0697-degree-of-an-array) |
+| [3227-find-missing-and-repeated-values](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/EXPLORER-Z/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0258-add-digits) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
+| [3227-find-missing-and-repeated-values](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -114,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0258-add-digits) |
+## Matrix
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
