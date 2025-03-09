@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/EXPLORER-Z/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3227-find-missing-and-repeated-values](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3483-alternating-groups-ii](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/3483-alternating-groups-ii) |
 ## Design
 |  |
 | ------- |
@@ -126,4 +127,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/3483-alternating-groups-ii) |
 <!---LeetCode Topics End-->
