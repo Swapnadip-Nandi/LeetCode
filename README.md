@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/EXPLORER-Z/LeetCode/tree/master/0242-valid-anagram) |
 | [0697-degree-of-an-array](https://github.com/EXPLORER-Z/LeetCode/tree/master/0697-degree-of-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## String
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/EXPLORER-Z/LeetCode/tree/master/0242-valid-anagram) |
 | [0953-reverse-only-letters](https://github.com/EXPLORER-Z/LeetCode/tree/master/0953-reverse-only-letters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -128,4 +130,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/3483-alternating-groups-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 <!---LeetCode Topics End-->
