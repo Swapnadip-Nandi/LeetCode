@@ -1,30 +1,19 @@
 class Solution {
 public:
     string convert(string s, int numRows) {
-        
-        vector<string>ans(numRows);
-        //Base Case
-        if(numRows <= 1){
-            return s;
-        }
-        bool flag = false;
-        int i = 0;
-        for(auto ch : s){
-            ans[i]+=ch;
-            if(i == 0 || i == numRows - 1){
-                flag = !flag;
-            }
-            if(flag){
-                i+=1;
-            }
-            else{
-                i-=1;
+        if (numRows == 1) return s;
+        char a[10000];
+        std::size_t len = s.length();
+        int index =0;
+        for (int i = 0; i < numRows; i++) {
+            for (int j = i; j < len; j +=2*(numRows-1)) {
+                a[index++] = s[j];
+                if (i > 0 && i<numRows-1 && j+2*(numRows-1)-2*i<len) {
+                    a[index++] = s[j + 2*(numRows - 1)-2*i];
+                }
             }
         }
-        string zigzag= "";
-        for(auto str: ans){
-            zigzag+= str;
-        }
-        return zigzag;
+        a[index]='\0';
+        return a;
     }
 };
