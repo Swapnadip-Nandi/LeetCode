@@ -1,19 +1,45 @@
 class Solution {
 public:
     string convert(string s, int numRows) {
-        if (numRows == 1) return s;
-        char a[10000];
-        std::size_t len = s.length();
-        int index =0;
-        for (int i = 0; i < numRows; i++) {
-            for (int j = i; j < len; j +=2*(numRows-1)) {
-                a[index++] = s[j];
-                if (i > 0 && i<numRows-1 && j+2*(numRows-1)-2*i<len) {
-                    a[index++] = s[j + 2*(numRows - 1)-2*i];
+        if(numRows <= 1) return s;
+        string ans = "";
+
+        for(int i = 0; i < numRows; i++) {
+            int x = (numRows - 1) * 2;
+            if(i == 0 || i == numRows - 1) {
+                int j = i;
+                while(j < s.size()) {
+                    ans += s[j];
+                    j = j + x;
+                }
+            } else if((numRows % 2 != 0) && (i == ((numRows / 2)))) {
+                int k = x / 2;
+                int j = i;
+                while(j < s.size()) {
+                    ans += s[j];
+                    j = j + k;
+                }
+            } else {
+                int first = x - (2 * i);
+                int second = x - first;
+                int n = i;
+                while(true) {
+                    if(n < s.size()) {
+                        ans += s[n];
+                        n = n + first;
+                        if(n < s.size()) {
+                            ans += s[n];
+                            n = n + second;
+                        }
+                        else {
+                            break;
+                        }
+                    } else {
+                        break;
+                    }
                 }
             }
         }
-        a[index]='\0';
-        return a;
+        return ans;
     }
 };
