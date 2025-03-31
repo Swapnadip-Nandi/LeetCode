@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/EXPLORER-Z/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/EXPLORER-Z/LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/EXPLORER-Z/LeetCode/tree/master/0031-next-permutation) |
+| [0055-jump-game](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0055-jump-game) |
 | [0164-maximum-gap](https://github.com/EXPLORER-Z/LeetCode/tree/master/0164-maximum-gap) |
 | [0303-range-sum-query-immutable](https://github.com/EXPLORER-Z/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0697-degree-of-an-array](https://github.com/EXPLORER-Z/LeetCode/tree/master/0697-degree-of-an-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/EXPLORER-Z/LeetCode/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/EXPLORER-Z/LeetCode/tree/master/0072-edit-distance) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
