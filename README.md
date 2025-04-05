@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/EXPLORER-Z/LeetCode/tree/master/0697-degree-of-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/EXPLORER-Z/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/EXPLORER-Z/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/EXPLORER-Z/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0258-add-digits) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/EXPLORER-Z/LeetCode/tree/master/0022-generate-parentheses) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Recursion
 |  |
 | ------- |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/EXPLORER-Z/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -208,4 +212,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Combinatorics
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
