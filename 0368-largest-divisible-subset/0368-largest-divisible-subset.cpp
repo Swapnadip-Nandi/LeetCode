@@ -1,43 +1,44 @@
 class Solution {
 public:
-    int n;
-    vector<int> sNums;
-    vector<vector<int>> dp;
-    int rec(int i, int prev) {
-        if(i >= n) return 0;
-        if(dp[i][prev+1] != -1) return dp[i][prev+1];
-        int take = 0;
-        if(prev == -1 || sNums[i] % sNums[prev] == 0)
-            take = 1 + rec(i+1, i);
-        int notTake = rec(i+1, prev);
-        int res = (take > notTake) ? take : notTake;
-        dp[i][prev+1] = res;
-        return res;
-    }
-    void reconstruct(int i, int prev, vector<int>& subset) {
-        if(i >= n) return;
-        int take = 0;
-        if(prev == -1 || sNums[i] % sNums[prev] == 0)
-            take = 1 + rec(i+1, i);
-        int notTake = rec(i+1, prev);
-        if(prev == -1 || sNums[i] % sNums[prev] == 0) {
-            if(take >= notTake) {
-                subset.push_back(sNums[i]);
-                reconstruct(i+1, i, subset);
-                return;
+    vector<int> largestDivisibleSubset(vector<int>& nums) {
+        int n = nums.size();
+
+        vector<int>t(n, 1), hash(n);
+
+        sort(nums.begin(), nums.end());
+
+        int ans = -1;
+        int lastIdx = -1;
+
+
+        for(int i = 0; i < n; i++){
+            hash[i] = i;
+            for(int prev = 0; prev < i; prev++){
+                
+                if(nums[i] % nums[prev] == 0 && 1 + t[prev] > t[i]){
+
+                    t[i] = 1 + t[prev];
+                    hash[i] = prev;
+                }
+            }
+            
+            if(t[i] > ans){
+                ans = t[i];
+                lastIdx = i;
             }
         }
-        reconstruct(i+1, prev, subset);
-    }
-    vector<int> largestDivisibleSubset(vector<int>& nums) {
-        if(nums.empty()) return {};
-        sNums = nums;
-        sort(sNums.begin(), sNums.end());
-        n = sNums.size();
-        dp.assign(n, vector<int>(n+1, -1));
-        rec(0, -1);
-        vector<int> ans;
-        reconstruct(0, -1, ans);
-        return ans;
+
+
+        vector<int>temp;
+        temp.push_back(nums[lastIdx]);
+
+        while(hash[lastIdx] != lastIdx){
+            lastIdx = hash[lastIdx];
+            temp.push_back(nums[lastIdx]);
+        }
+
+        reverse(begin(temp), end(temp));
+
+        return temp;
     }
 };
