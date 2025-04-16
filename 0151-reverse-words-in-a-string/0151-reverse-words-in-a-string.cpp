@@ -1,22 +1,27 @@
 class Solution {
 public:
     string reverseWords(string s) {
-        stringstream ss(s);
-        string word;
-        vector<string> words;
+        std::vector<char> result = {};
+        bool beginning = true;
 
-        while (ss >> word) {
-            words.push_back(word);
-        }
+        for (int start = s.length() - 1; start >= 0; start--) {
+            if (s[start] == ' ') continue;
 
-        string res;
-        for (int i = words.size() - 1; i >= 0; i--) {
-            res += words[i];
-            if (i != 0) {
-                res += " ";
+            if (!beginning) {
+                result.push_back(' ');
             }
-        }
 
-        return res;
+            int end = start - 1;
+            while (end >= 0 && s[end] != ' ') {
+                end--;
+            }
+
+            for (int idx = end + 1; idx <= start; idx++) {
+                result.push_back(s[idx]);
+            }
+            beginning = false;
+            start = end;
+        }
+        return std::string(result.begin(), result.end());
     }
 };
