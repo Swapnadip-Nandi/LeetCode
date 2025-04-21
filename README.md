@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/1656-count-good-triplets) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2249-count-the-hidden-sequences](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/EXPLORER-Z/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/EXPLORER-Z/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [2249-count-the-hidden-sequences](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Hash Table
 |  |
