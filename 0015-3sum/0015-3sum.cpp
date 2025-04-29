@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-         sort(nums.begin() , nums.end());    //Sorted Array
+        sort(nums.begin() , nums.end());    //Sorted Array
         if(nums.size() < 3){    //Base case 1
             return {};
         }
@@ -36,6 +36,6 @@ public:
                 }
             }
         }
-        return answer;  
+        return answer;      //Return the answer vector.
     }
 };
