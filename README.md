@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/EXPLORER-Z/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/EXPLORER-Z/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0258-add-digits) |
+| [0319-bulb-switcher](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0319-bulb-switcher) |
 | [0368-largest-divisible-subset](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0319-bulb-switcher) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/EXPLORER-Z/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Binary Search
 |  |
