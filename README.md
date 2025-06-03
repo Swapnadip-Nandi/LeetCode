@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0319-bulb-switcher) |
 | [0368-largest-divisible-subset](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0633-sum-of-square-numbers](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/EXPLORER-Z/LeetCode/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/EXPLORER-Z/LeetCode/tree/master/0202-happy-number) |
+| [0633-sum-of-square-numbers](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0953-reverse-only-letters](https://github.com/EXPLORER-Z/LeetCode/tree/master/0953-reverse-only-letters) |
 ## Dynamic Programming
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/EXPLORER-Z/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2690-house-robber-iv](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/2690-house-robber-iv) |
