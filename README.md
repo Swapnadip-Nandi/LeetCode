@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0055-jump-game) |
 | [0164-maximum-gap](https://github.com/EXPLORER-Z/LeetCode/tree/master/0164-maximum-gap) |
+| [0198-house-robber](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0198-house-robber) |
 | [0303-range-sum-query-immutable](https://github.com/EXPLORER-Z/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0368-largest-divisible-subset](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/EXPLORER-Z/LeetCode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/EXPLORER-Z/LeetCode/tree/master/0072-edit-distance) |
+| [0198-house-robber](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0198-house-robber) |
 | [0368-largest-divisible-subset](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
