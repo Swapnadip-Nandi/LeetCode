@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/EXPLORER-Z/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/EXPLORER-Z/LeetCode/tree/master/0242-valid-anagram) |
 | [0953-reverse-only-letters](https://github.com/EXPLORER-Z/LeetCode/tree/master/0953-reverse-only-letters) |
+| [1250-longest-common-subsequence](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0198-house-robber) |
 | [0368-largest-divisible-subset](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [1250-longest-common-subsequence](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
