@@ -223,11 +223,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Union Find
@@ -254,11 +256,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Combinatorics
