@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1916-find-center-of-star-graph](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/1916-find-center-of-star-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2793-count-the-number-of-complete-components](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Topological Sort
