@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0055-jump-game) |
 | [0164-maximum-gap](https://github.com/EXPLORER-Z/LeetCode/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0200-number-of-islands) |
 | [0303-range-sum-query-immutable](https://github.com/EXPLORER-Z/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0368-largest-divisible-subset](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0200-number-of-islands) |
 | [3227-find-missing-and-repeated-values](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0200-number-of-islands) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
@@ -234,12 +237,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0200-number-of-islands) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/0200-number-of-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/Swapnadip-Nandi/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph
